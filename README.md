@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Future Tank Lab Banner" width="100%">
+<img src="banner.PNG" alt="Future Tank Lab Banner" width="100%">
 # 🛡 Future Tank Lab
 
 **Future Tank Lab** is an interactive Streamlit application that demonstrates future armored vehicle concepts.  
